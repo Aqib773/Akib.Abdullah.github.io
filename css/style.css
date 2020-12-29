@@ -1,0 +1,49 @@
+
+.left-section{
+    width: 25%;
+    float: left;
+    overflow: hidden;
+    background-color: #111A28;
+    color: white;   
+    display: block;
+    margin: auto;
+    text-align: center; 
+}
+.top-part-left{
+    padding: 3%;
+}
+.image img{
+     height: 30%;
+    width: 30%;
+    border-radius: 50%;    
+}
+
+
+.top-part-left a img{
+    background: white;
+    padding: 5px;
+    margin-right: 10px; 
+    border: solid white;
+}
+
+.top-part-left .resume p a{
+    padding: 5px;
+    text-decoration: none;
+    border:solid;
+
+}
+.top-part-left .resume p a:hover{
+    background-color: rgb(250, 246, 239);
+
+}
+.bottom-part-right{
+    position: absolute;
+    top: 30%;
+    height: 70%;
+    width: 100%;
+
+}
+.right-section{
+    width: 75%;
+    float: left;
+}
